@@ -1,0 +1,64 @@
+header img {
+    width: 55px;
+    height: 55px;
+    float: right;
+}
+
+nav ul {
+    text-align: center;
+    display:500px;
+}
+nav li {
+    display: inline;
+    margin: 100px;
+    font-size: 25px;
+    font-style: oblique;
+}
+body {
+    background-color:#dae7db;
+}
+header {
+    background-color: rgb(179, 179, 204);
+}
+header h1 {
+    font-size: 50px;
+    text-align: center;
+    text-shadow: lightgray;
+}
+aside img {
+    width: 500px;
+    height:500px;
+    float: right;
+}
+article h1 {
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: lightseagreen;
+    margin-left: 100px;
+}
+article ul  {
+    margin-left: 100px;
+    height: 500px;
+    width: 500;
+    line-height: 1.5;
+
+}
+article li {
+    font-size: 15px;
+    display: list-item;
+    font-style: oblique;
+    margin: 100px;
+}
+footer {
+    background-color: rgb(114, 189, 148);
+}
+h5 {
+    text-align: center;
+}
+h6 {
+    text-align: end;
+}
+footer li {
+    display: inline;
+    margin: 300px;
+}
